@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../eid_card"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "eid3"
+	}
+}
